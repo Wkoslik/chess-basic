@@ -16,3 +16,4 @@ Don't worry about assets/images, this is purely to get you thinking about creati
 ## Helpers
 -   Don't write HTML directly into index.html
 -   Don't worry about styling, as long as it's not a complete mess!
+-   For pieces, it may be an idea to look at constructor functions and/or classes. We'll cover this next week for Canvas Crawler and you may have come across them in your game but it's a good intro/refresher
